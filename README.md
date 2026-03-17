@@ -1,24 +1,66 @@
+<div align="center">
+  <img src="https://github.com/ualmec700.png" width="130" style="border-radius: 10%;" alt="Avatar">
+  
+  <h2 style="color: #a3d900;">Marcos Escánez</h2>
+  <h4 style="color: #4a90e2;">Software Engineering Student</h4>
+  
+  <i>Desarrollo de software • Web • Cloud •<br>Control de versiones</i>
+</div>
 
+---
 
-# Más allá del código: Mi trayectoria en GitHub
+### 👨‍💻 Sobre mí
 
-¡Hola! Si estás aquí, probablemente te interese saber qué ocurre "detrás de escenas" en mis repositorios. Para un desarrollador, GitHub no es solo un lugar para guardar código; es un diario de aprendizaje, un laboratorio de experimentación y una vitrina al mundo.
+Soy estudiante de **Ingeniería Informática** interesado en el desarrollo de software y tecnologías cloud.
 
-## 🚀 ¿Quién es ImJincod en el mundo Dev?
+Actualmente trabajo en proyectos colaborativos utilizando **GitHub Flow**, desarrollo de **sitios web estáticos** y despliegue mediante **GitHub Pages**.
 
-Mi perfil se define por una búsqueda constante de eficiencia y aprendizaje de nuevas tecnologías. Actualmente, me centro en el desarrollo de Software y la exploración de nuevas arquitecturas.
+Mi objetivo es seguir desarrollando habilidades en **ingeniería de software, desarrollo web y automatización de despliegues**.
 
-## 🛠 Mi Stack Tecnológico
+---
 
-Basado en mis repositorios actuales, estas son las herramientas que domino:
+### 🚀 Tecnologías
 
-* **Lenguajes:** JavaScript, Python, TypeScript
-* **Frameworks/Librerías:** React, Next.js, Node.js
-* **Herramientas de entorno:** Git, Docker, GitHub Actions
+**Lenguajes y desarrollo**<br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-## 📈 Estadísticas y Evolución
+**Herramientas**<br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ImJincod&show_icons=true&theme=radical)
+**Cloud y despliegue**<br>
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+---
 
-¿Te interesa colaborar? Puedes encontrarme en [GitHub](https://github.com/ImJincod). ¡Sigamos construyendo!
+### 📊 Actividad en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ualmec700&show_icons=true&theme=nord&bg_color=1c1e26&title_color=4a90e2&text_color=a3d900" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ualmec700&layout=compact&theme=nord&bg_color=1c1e26&title_color=4a90e2&text_color=a3d900" width="48%" />
+</div>
+
+---
+
+### 📁 Proyecto principal
+
+**Mentefria04**
+
+Proyecto colaborativo del equipo donde trabajamos con:
+
+\>\> GitHub Flow<br>
+\>\> Desarrollo web estático<br>
+\>\> Despliegue en GitHub Pages
+
+Repositorio del proyecto:<br>
+🔗 [Mentefria04 Repo](https://github.com/Mentefria04)
+
+---
+
+### 🔗 Enlaces
+
+\>\> GitHub personal: 👨‍💻 [ualmec700](https://github.com/ualmec700)<br>
+\>\> Blog del equipo: 💻 [Mentefria04](https://github.com/Mentefria04)
