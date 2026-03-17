@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/ualmec700.png" width="130" style="border-radius: 10%;" alt="Avatar">
+  <img src="https://github.com/ImJincod.png" width="130" style="border-radius: 10%;" alt="Avatar">
   
-  <h2 style="color: #a3d900;">Marcos Escánez</h2>
+  <h2 style="color: #a3d900;">Ivan Ortega Recena</h2>
   <h4 style="color: #4a90e2;">Software Engineering Student</h4>
   
   <i>Desarrollo de software • Web • Cloud •<br>Control de versiones</i>
@@ -47,7 +47,7 @@ Mi objetivo es seguir desarrollando habilidades en **ingeniería de software, de
 
 ### 📁 Proyecto principal
 
-**Mentefria04**
+****
 
 Proyecto colaborativo del equipo donde trabajamos con:
 
@@ -56,11 +56,11 @@ Proyecto colaborativo del equipo donde trabajamos con:
 \>\> Despliegue en GitHub Pages
 
 Repositorio del proyecto:<br>
-🔗 [Mentefria04 Repo](https://github.com/Mentefria04)
+
 
 ---
 
 ### 🔗 Enlaces
 
-\>\> GitHub personal: 👨‍💻 [ualmec700](https://github.com/ualmec700)<br>
-\>\> Blog del equipo: 💻 [Mentefria04](https://github.com/Mentefria04)
+\>\> GitHub personal: 👨‍💻 
+\>\> Blog del equipo: 💻 
