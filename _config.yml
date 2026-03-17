@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
-title: ior443-website
-description: Bookmark this to keep an eye on my project updates!
+
+title: Ivan Ortega Recena Blog
+description: Software Engineering Student | Web Development | Cloud & DevOps
+
+github:
+  is_project_page: false
+
+show_downloads: false
