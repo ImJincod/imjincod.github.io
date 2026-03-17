@@ -1,7 +1,4 @@
----
-layout: default
-title: "Explorando mi ecosistema de desarrollo"
----
+
 
 # Más allá del código: Mi trayectoria en GitHub
 
@@ -23,6 +20,5 @@ Basado en mis repositorios actuales, estas son las herramientas que domino:
 
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ImJincod&show_icons=true&theme=radical)
 
----
 
 ¿Te interesa colaborar? Puedes encontrarme en [GitHub](https://github.com/ImJincod). ¡Sigamos construyendo!
