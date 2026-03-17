@@ -4,7 +4,7 @@
   <h2 style="color: #a3d900;">Ivan Ortega Recena</h2>
   <h4 style="color: #4a90e2;">Software Engineering Student</h4>
   
-  <i>Desarrollo de software • Web • Cloud •<br>Control de versiones</i>
+  <i>Desarrollo de software • Web<br>Control de versiones</i>
 </div>
 
 ---
