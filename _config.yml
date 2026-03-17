@@ -1,8 +1,6 @@
-theme: jekyll-theme-cayman
-
-title: Ivan Ortega Recena Blog
-description: Software Engineering Student | Web Development | Cloud & DevOps
-
+theme: jekyll-theme-hacker
+title: ./ Blog Ivan Ortega 
+description: Software Engineering Student & Web Development 
 github:
   is_project_page: false
 
