@@ -13,7 +13,7 @@
 
 Desde mis primeros pasos con HTML, mi pasión por crear software ha crecido exponencialmente. Como estudiante de **Ingeniería Informática**, disfruto traduciendo ideas complejas en código limpio.
 
-Mi enfoque actual se centra en el **desarrollo web full-stack**, la **infraestructura cloud** (con Azure) y la automatización **DevOps**. Busco constantemente retos que me fuercen a aprender nuevas herramientas e integrarlas en soluciones eficientes y escalables.
+Mi enfoque actual se centra en el **desarrollo web full-stack** y el **desarrollo de aplicaciones**. Busco constantemente retos que me fuercen a aprender nuevas herramientas e integrarlas en soluciones eficientes y escalables.
 
 Mi meta es mantenerme siempre aprendiendo y aplicando las últimas tecnologías para crear productos impactantes, buscando activamente contribuir a proyectos de alto valor.
 
