@@ -39,8 +39,8 @@ Mi objetivo es seguir desarrollando habilidades en **ingeniería de software, de
 ### 📊 Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ualmec700&show_icons=true&theme=nord&bg_color=1c1e26&title_color=4a90e2&text_color=a3d900" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ualmec700&layout=compact&theme=nord&bg_color=1c1e26&title_color=4a90e2&text_color=a3d900" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ImJincod&show_icons=true&theme=nord&bg_color=1c1e26&title_color=4a90e2&text_color=a3d900" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImJincod&layout=compact&theme=nord&bg_color=1c1e26&title_color=4a90e2&text_color=a3d900" width="48%" />
 </div>
 
 ---
